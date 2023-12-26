@@ -1,0 +1,65 @@
+“Travel is the main thing you purchase that makes you more extravagant”. We, at TRAVELISTIC, swear by this and put stock in satisfying travel dreams that make you perpetually rich constantly.
+
+We have been moving excellent encounters for a considerable length of time through our cutting-edge planned occasion bundles and other fundamental travel administrations. We rouse our clients to carry on with a rich life, brimming with extraordinary travel encounters.
+
+Through our exceptionally curated occasion bundles, we need to take you on an adventure where you personally enjoy the stunning magnificence of America and far-off terrains. We need you to observe sensational scenes that are a long way past your creative ability.
+
+The powerful inclination of American voyagers to travel more nowadays is something that keeps us inspired to satisfy our vacation necessities. Our vision to give you a consistent occasion encounter makes us one of the main visit administrators in the regularly extending travel industry.
+
+To guarantee that you have a satisfying occasion and healthy encounters, all our vacation administrations are available to your no matter what. On your universal occasion, we guarantee that you are very much outfitted with outside trade (Forex Cards, Currency Notes), visa, and travel protection.
+
+We are the pioneers of outside trade in America and booking forex online is basic and advantageous with us. Our online visa administrations are exceptional and make the bulky procedure of booking visas a cake stroll for clients. We likewise give exceptional visa, forex, and travel protection and outside settlement administrations for understudies voyaging abroad for study.
+
+Regardless of whether it’s reserving flights or inns for your movement, We offer everything under one umbrella. We likewise have journey occasions for individuals who are searching for solace and reasonable extravagance.
+
+We offer the best limits on our top-rated visit bundles to clients who pick our viable administrations over and over. How about we remind you indeed that we don’t expect to be your visit and travel specialists; we endeavor to be your vacation accomplices until the end of time.
+
+ function () {
+                    $('#success').html("<div class='alert alert-danger'>");
+                    $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
+                            .append("</button>");
+                    $('#success > .alert-danger').append($("<strong>").text("Sorry " + name + ", it seems that our mail server is not responding. Please try again later!"));
+                    $('#success > .alert-danger').append('</div>');
+                    $('#contactForm').trigger("reset");
+                },
+
+india
+MANALI
+One of the most popular hill stations in Himachal, Manali offers the most magnificent views of the Pir Panjal and the Dhauladhar ranges covered with snow for most parts of the year. 
+
+With the Covid-19 pandemic going on, Manali has evolved to be a place loved by young people looking for longer stays for workation. With ambient cafes, good wifi availability, small eateries and convenient shops, Old Manali is among the favorite neighbourhood for such people. There are many homestays and hostels offering dorm beds for cheap for longer durations. 
+
+Manali has many trekking options around it, making it a great base for exploring this side of Himalayas. River Beas provides great rafting options in the nearby town of Kullu. Adjoining Parvati river, lies the Parvati Valley with  Kasol, Manikaran, Tosh and small villages attracting travellers for longer stays. Atal Tunnel now allows travellers to reach Sissu within a few hours making Spiti way more accessible. 
+
+It snows the most in the months of January & February followed by December and March. If you're very lucky, you might find some snow in April. 
+
+Tourists flock to Rohtang Pass & Solang valley for various adventure activities including skiing, paragliding, horse-riding & zorbing. Rohtang Pass is almost always covered with snow and can often get overcrowded and see traffic jams.
+
+LEH LADAK
+Ladakh is a union territory in the Kashmir region of India. Formerly falling in the state of Jammu & Kashmir, Ladakh was administered a union territory on 31st October 2019. Extending from the Siachen Glacier to the main Great Himalayas, Ladakh is a land like no other. Dominated by dramatic landscapes, Ladakh is known as the world's coldest desert.
+
+Stunning Gompas (Tibetan Buddhist monasteries), fluttering prayer flags, whitewashed stupas, Ladakh is a riot of intricate murals and red-robed monks. It is said that only in Ladakh can a man sitting in the sun with his feet in the shade suffer from sunstroke and frostbite at the same time. With a culture similar to Tibetan culture, the people of Ladakh are friendly and welcoming to tourists.
+
+Ladakh is an adventure playground for rafting and high-altitude trekking. Note that Leh Ladakh is inaccessible by road outside the summer months. The route passes close altogether from around October to May, and the only way to reach is by air. Chadar trek on frozen Zanskar river takes place in January to the end of February.
+
+delhi
+The capital of India, Delhi is a cosmopolitan city with a historic old Delhi and the modern New Delhi. From historical monuments to crowded shopping malls, from an extensive network of the modern metro system to Delhi University campus, Dilli has multiple personalities and is considered to be the city with a heart.
+Take time to explore historical monuments such as the Red Fort, Jama Masjid, Humayun's Tomb and Purana Qila if you want to explore the Mughal History. Delhi has famous temples scattered all across the city, a few noteworthy ones being the Akshardham Temple, the Lotus Temple (also known as the Bahai Temple), and the ISKON Temple.
+
+agra
+Agra is one of the most populous cities in Uttar Pradesh and 24th most populous city in India. With its long and rich history, it is no wonder that Agra forms part of the popular Golden Triangle Circuit for tourists along with Delhi and Jaipur. It is also a part of the Uttar Pradesh Heritage Arc including Varanasi and Lucknow. History fanatics and architecture buffs are sure to have a ball here with the sheer expanse of the Mughal art and culture on display.
+Agra is mostly visited on a one-day trip from New Delhi or other nearby cities in Uttar Pradesh but is totally worth it. Be prepared to be astounded, amazed, inspired and thrilled. However, be a little cautious about conmen in the guise of unofficial tour guides and fake handicrafts.
+
+mumbai
+Mumbai, the capital city of the Indian state of Maharashtra, is a spectacular paradox of chaos and hope, glamour and squalor, modernity and tradition. Famously known as the City of Dreams, Mumbai – formerly known as Bombay - Mumbai is a beautifully blended melting pot of cultures and lifestyles.
+The city soaks in everything into its fabric, making it its very own. From upcoming actors struggling to make it big on the silver screen; from Bolly superstars to big industrialists to tribes of fisherman and slum dwellers, Mumbai is a city that proudly boasts of stories from different walks of human survival.
+One of the main centres in the country of art, culture, music, dance and theatre, Mumbai is a dynamic, cosmopolitan city that has been running for years solely on the indomitable spirit of the Mumbaikars.
+
+switzerland
+matterhorn
+The Matterhorn, Switzerland's iconic pointed peak is one of the highest mountains in the Alps. On the border with Italy, this legendary peak rises to 4,478 meters, and its four steep faces lie in the direction of the compass points. The first summiting in 1865 ended tragically when four climbers fell to their death during the descent. Today, thousands of experienced climbers come here each summer.At the foot of this mighty peak, lies the charming village of Zermatt, a top international resort with horse-drawn carriage rides, quaint chalets, and world-class restaurants and hotels. To preserve the air quality and peaceful ambience, motorized vehicles are banned in the village.
+
+lucrene
+Imagine a sparkling blue lake surrounded by mountains, a car-free medieval old town, covered bridges, waterfront promenades, frescoed historic buildings, and sun-splashed plazas with bubbling fountains. No wonder Lucerne (in German, Luzern) is a top spot for tourists. Famed for its music concerts, this quintessential Swiss town lures renowned soloists, conductors, and orchestras to its annual International Music Festival. The Culture and Convention Center is home to one of the world's leading concert halls.
+
+
